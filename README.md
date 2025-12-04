@@ -78,7 +78,7 @@
 
 ## 📬 Get in Touch
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/krishna-kiran-kurcheti-744617125/
-- 🧑‍💻 **GitHub:** `https://github.com/krishnakiran66`
+- 💼 **LinkedIn:** https://www.linkedin.com/in/krishna-kiran-kurcheti-744617125/
+- 🧑‍💻 **GitHub:** https://github.com/krishnakiran66
 
 If you’re working on similar tech (React, Angular, Java, Spring) or preparing for interviews, feel free to connect and say hi. 🙂
